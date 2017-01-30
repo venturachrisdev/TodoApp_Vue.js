@@ -1,6 +1,8 @@
-# todoapp
+# Todoapp
 
-> A Vue.js project
+> A Simple and minimalist (but useful) Todo app using Vue.js.
+
+[screenshot.png](screeenshot.png)
 
 ## Build Setup
 
