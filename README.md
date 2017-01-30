@@ -2,7 +2,7 @@
 
 > A Simple and minimalist (but useful) Todo app using Vue.js.
 
-[screenshot.png](screeenshot.png)
+[screenshot.png](screenshot.png)
 
 ## Build Setup
 
